@@ -107,18 +107,18 @@ module.exports = zeroyt7 = async (zeroyt7, mek, _welkom) => {
 //━━━━━━━━━━━━━━━[ CONNECTION 1 ]━━━━━━━━━━━━━━━━━//
 
 		mess = {
-			wait: 'Sabar Lagi Proses Tod...!',
-			success: 'Done Jangan Lupa Subscribe Zero YT7',
+			wait: 'Sabar Lagi Proses...!',
+			success: 'Success',
 			error: {
 				stick: 'Gagal Convert Gambar To Sticker...Coba Lagi !',
-				Iv: 'Linknya Error Tod !'
+				Iv: 'Linknya Error!'
 			},
 			only: {
-				admin: 'Kusus Admin Tod !',
-				group: 'Khusus Group Tod !'
+				admin: 'Kusus Admin!',
+				group: 'Khusus Group!'
 			}
 		}
-		faketeks = 'Zero YT7'
+		faketeks = 'Lnxzz'
 		let isUrl = (url) => {
         return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%.+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%+.~#?&/=]*)/, 'gi'))
         }
@@ -439,7 +439,7 @@ timestamp = speed();
 				latensi = speed() - timestamp
                   	teks =
 `┏━➤ *INFO BOT* 
-*┃┃* Creator Bot : Zero YT7
+*┃┃* Creator Bot : Lnxzz
 *┃┃* Nama Owner : ${ownername}
 *┃┃* Nama Bot : ${botname}
 *┃┃* Prefix : Multi Prefix
